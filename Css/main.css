@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+
+
+
+
+.back{
+    height: 100vh !important;
+    background-image: url(../imgs/pexels-stywo-1261728.jpg);
+    background-position: center center;
+    background-size: cover;
+}
+.container .head{
+
+    text-align: center;
+    font-size: 25px;
+    font-weight: 700;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.inner .tet{
+    color:  darkred;
+    line-height: 40px;
+    font-size: 40px;
+}
+.container .button{
+
+    display: block;
+    text-align: center;
+
+}
+
+.container .color{
+
+    color: darkred;
+}
+
